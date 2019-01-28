@@ -11,13 +11,11 @@ I'm also hoping you'd like to contribute to the project, so feel free to make a 
 	- Coming soon
 
 - TO-DO
-	- [ ] Write a throughout documentation for people.
+	- [ ] Write a thorough documentation.
 	- [ ] Add hotkeys.
 	- [ ] Add a GUI.
-	- [ ] Auto update offsets.
-	- [ ] Split into different files for a better overview.
-
-
+	- [ ] Add ability to auto-update offsets.
+	- [ ] Split into different files to give the programmer a better overview.
 
 - Credits
 	- puppetmaster (guidedhacking.com)
