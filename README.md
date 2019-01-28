@@ -2,8 +2,6 @@
 External CSGO Multihack written in Python for educational purposes only.
 I hope this serves as a helping hand to python programmers out there who want's to learn about the Windows API.
 
-Credits: cesharp (unknowncheats.com) & puppetmaster (guidedhacking.com)
-
 - PREREQUISITIES:
 	- Be able to run a python file and know how to import modules
 		- Run a python file: https://stackoverflow.com/questions/1522564/how-do-i-run-a-python-program
@@ -18,3 +16,7 @@ Credits: cesharp (unknowncheats.com) & puppetmaster (guidedhacking.com)
 	- [ ] Add a GUI.
 	- [ ] Auto update offsets.
 	- [ ] Split into different files for a better overview.
+
+
+
+Credits: cesharp (unknowncheats.com) & puppetmaster (guidedhacking.com)
