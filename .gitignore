@@ -2,4 +2,4 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/External-CSGO-Multihack/v15/Browse.VC.opendb
+*.opendb
