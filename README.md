@@ -19,4 +19,6 @@ I hope this serves as a helping hand to python programmers out there who want's 
 
 
 
-Credits: cesharp (unknowncheats.com) & puppetmaster (guidedhacking.com)
+- Credits
+	- puppetmaster (guidedhacking.com)
+	- cesharp (unknowncheats.com)
