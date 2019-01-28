@@ -1,5 +1,6 @@
 # Python-External-CSGO-Multihack
 External CSGO Multihack written in Python for educational purposes only.
+
 I hope this serves as a helping hand to python programmers out there who want's to learn about the Windows API.
 
 - PREREQUISITIES:
