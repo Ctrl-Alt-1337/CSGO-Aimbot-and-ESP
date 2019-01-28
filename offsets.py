@@ -1,0 +1,14 @@
+off_incrosshair     = 0xB394
+off_entitylist      = 0x4CCDC3C
+off_teamnum         = 0xF4
+off_localplayer     = 0xCBD6A4
+off_glowobject      = 0x520DA80
+off_health          = 0x100
+off_glowindex       = 0xA3F8
+off_vecorigin       = 0x138
+off_bonematrix      = 0x000026A8
+off_dwviewangle     = 0x4D10
+off_vecviewoffset   = 0x108
+off_aimpunch        = 0x302C
+off_clientstate     = 0x58ACFC
+off_shotsfired      = 0xA370
