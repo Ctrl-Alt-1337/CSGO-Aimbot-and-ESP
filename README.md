@@ -1,6 +1,5 @@
 # External-CSGO-Multihack
-I hope this serves as a helping hand to python programmers out there who want's to learn about the Windows API.
-I'm also hoping you'd like to contribute to the project as I too want to learn!
+CS:GO external aimbot and ESP hack (wallhack). It's detected by VAC as it's now public code.
 
 - PREREQUISITIES:
 	- Be able to run a python file and know how to import modules
