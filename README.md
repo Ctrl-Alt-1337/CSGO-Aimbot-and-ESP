@@ -3,7 +3,7 @@ CS:GO external aimbot and ESP hack (wallhack). It's detected by VAC as it's now 
 
 - WHAT IS THIS:
   - This hack is helping with your aim and reveals players on the map. 
-    ![alt text](https://github.com/Ctrl-Alt-1337/AssaultCube-DirectX-ESP-Overlay/blob/master/screenshot.png)
+    ![alt text](https://github.com/Ctrl-Alt-1337/CSGO-Aimbot-and-ESP/blob/master/screenshot.png)
 
 - HOW TO RUN THE HACK:
 	- First install python and to install modules follow the links below:
