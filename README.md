@@ -1,5 +1,5 @@
 # External-CSGO-Multihack
-CS:GO external aimbot and ESP hack (wallhack). It's detected by VAC as it's now public code.
+CS:GO external aimbot and ESP hack (wallhack). It's detected by VAC as it's now public code. External python modules are included to ensure the dependencies are working as intended. 
 
 - PREREQUISITIES:
 	- Be able to run a python file and know how to import modules
