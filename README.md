@@ -8,11 +8,11 @@ I'm also hoping you'd like to contribute to the project as I too want to learn!
 		- Install python modules: https://docs.python.org/3/installing/index.html
 		
 		
-- HOW-TO:
-	- Coming soon
-	
+- INCLUDED:
+	- Aimbot
+	- ESP 	
 
-- TO-DO
+- TO-DO:
 	- [ ] Write a thorough documentation.
 	- [ ] Add hotkeys.
 	- [ ] Add a GUI.
@@ -20,6 +20,6 @@ I'm also hoping you'd like to contribute to the project as I too want to learn!
 	- [ ] Split into different files to give the programmer a better overview.
 
 
-- Credits
+- CREDITS:
 	- puppetmaster (guidedhacking.com)
 	- cesharp (unknowncheats.com)
