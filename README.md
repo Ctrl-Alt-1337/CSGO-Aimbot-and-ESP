@@ -5,10 +5,10 @@ CS:GO external aimbot and ESP hack (wallhack). It's detected by VAC as it's now 
     ![alt text](https://github.com/Ctrl-Alt-1337/CSGO-Aimbot-and-ESP/blob/master/screenshot.png)
 
 - HOW TO RUN THE HACK:
-	- First install python and to install modules follow the links below:
+	- Install Python 3.6 or higher.
 		- Run a python file: https://stackoverflow.com/questions/1522564/how-do-i-run-a-python-program
 		- Install python modules: https://docs.python.org/3/installing/index.html
-	- Update the offsets yourself or use: https://github.com/frk1/hazedumper
+	- Update the offsets through olly/CE or use: https://github.com/frk1/hazedumper
 	- Start CS:GO and run the python script.
 		
 - TO-DO:
